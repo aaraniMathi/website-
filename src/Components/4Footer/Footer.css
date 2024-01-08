@@ -1,0 +1,78 @@
+ .footer_site{
+    background-color: #202124;
+    padding: 12% 5% 0;
+    font-size: 15px;
+    line-height: 24px;
+    color: #fff;
+}
+.site-footer .row-one {
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+    font-family: "National 2 Regular";
+    font-size: 14px;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.row-one a{
+    color: #202124;
+    font-family: "National 2 Regular";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+.row-one a img{
+    width: 9.8vw;
+    height: 13.18519vw;
+    margin: 20px;    
+   
+}
+ .footer_items{
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 42%;
+    margin-left: 2%;
+}
+.header-text-footer{
+    font-family: "National 2 Regular";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.footer_link{
+    padding-left: 45px;
+    margin-top: 0;
+    list-style: none;
+    /* /* width: 30%;  */
+   text-align: left;
+}  
+.footer_link li{
+    list-style-type: none;
+    text-decoration: none;
+    cursor: pointer;
+    white-space: nowrap;
+
+}  
+.ul-title{
+    padding: 45px;
+}
+.colum{
+    /* display: flex; */
+    align-items: center;
+
+}
+.colum p{
+    margin: 0;
+    font-family: "National 2 Regular";
+    font-size: 16px;
+    text-align: center;
+    opacity: .9;
+    line-height: 12px;
+    color: #dbdbdb;
+}

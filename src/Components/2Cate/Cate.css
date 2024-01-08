@@ -1,0 +1,50 @@
+h1{
+    margin-right:55%;
+    font-size: 38px;
+    line-height: 43px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #202124;
+    margin-top: 40px;
+    margin-bottom: 45px;
+}
+.cate_section::after{
+    border-top: 2px solid #ac2727;
+    flex: 1 1;
+    margin-top: 120px;
+    margin-right: 9%;
+}
+.menu{
+    display: flex;
+    width:  20.8vw;
+    height: 20.8vw;
+    margin: 2%;
+    /* display: inline-grid; */
+    background: #f8f7f5;
+    position: relative;
+    border-radius: 4px;
+    cursor: pointer;
+    /* text-decoration: none; */
+   
+}
+a img{
+    width: 17.8vw;
+    height: 14.18519vw;
+    margin: 20px;
+}
+.menu_text{
+    padding-top: 13px;
+    text-align: center;
+    font-family: "National 2 Condensed";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    color: #202124;
+
+
+}
+a{
+    text-decoration: none;
+}
